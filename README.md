@@ -1,3 +1,5 @@
+# NAME: ASWIN L
+# REG NO: 212224230028
 # Linux-IPC-Semaphores
 Ex05-Linux IPC-Semaphores
 
